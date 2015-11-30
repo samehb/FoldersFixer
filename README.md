@@ -5,8 +5,9 @@ Sometimes when you extract some archives you end up with folders ending with dot
 ## Usage
 FoldersFixer has shell extension support. Here is what you need to do to fix your folders:
 
-1. Download and execute [FoldersFixer](https://github.com/samehb/FoldersFixer/blob/master/Binaries/FoldersFixer.exe).
-2. Go to the root folder that contains the problamatic folders (inside it) then right click it and click Fix Folders Names.
+1. Download [FoldersFixer.zip](https://github.com/samehb/FoldersFixer/archive/master.zip) and extract it into any folder.
+2. Navigate into the extracted folder and execute FoldersFixer.exe.
+3. Go to the root folder that contains the problamatic folders (inside it) then right click it and click Fix Folders Names.
 
 That is it. You do not have to execute FoldersFixer again unless you move it into another place than what you originally ran it in. That is because the program adds its location to the registry.
 
